@@ -1,3 +1,7 @@
+### Student Name: Bạch Đức Cảnh
+### Student ID: 22110012
+### Project: Dessert Clicker app
+
 # 📝 To-Do List Android App
 
 A simple, beautiful To-Do List application built using **Kotlin** and **Jetpack Compose**, designed to help beginners learn core Android components and modern UI development.
@@ -34,7 +38,11 @@ A simple, beautiful To-Do List application built using **Kotlin** and **Jetpack 
 
 ## 📸 Screenshots
 
-> _Add screenshots here for better presentation (optional)_
+![image](https://github.com/user-attachments/assets/188ff75f-71b7-466b-be36-e57508ff22f5)
+
+![image](https://github.com/user-attachments/assets/55e13816-d0cc-4869-a26b-5005014c1a33)
+
+![image](https://github.com/user-attachments/assets/fff4e382-e176-4ec3-9649-0361293e83dd)
 
 ---
 
