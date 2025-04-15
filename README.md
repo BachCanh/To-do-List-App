@@ -45,3 +45,30 @@ A simple, beautiful To-Do List application built using **Kotlin** and **Jetpack 
 ```bash
 git clone https://github.com/your-username/todo-list-compose.git
 cd todo-list-compose
+```
+
+### 2. Open in Android Studio
+
+1. Launch **Android Studio**
+2. Click `File > Open`
+3. Select this project folder
+
+### 3. Run the App
+
+1. Connect your Android device **or** start an emulator
+2. Click the **Run ▶️** button in Android Studio
+
+---
+
+## 📂 Project Structure
+
+```bash
+📁 app
+└── 📁 src
+    └── 📁 main
+        ├── 📁 ui        # Composable UI components
+        ├── 📁 viewmodel # TaskViewModel (logic & state)
+        ├── 📁 model     # Task data model
+        └── MainActivity.kt
+```
+
