@@ -1,6 +1,6 @@
 ### Student Name: Bạch Đức Cảnh
 ### Student ID: 22110012
-### Project: Dessert Clicker app
+### Project: To-Do List app
 
 # 📝 To-Do List Android App
 
